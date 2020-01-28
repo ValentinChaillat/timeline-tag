@@ -1,0 +1,93 @@
+body{
+  background-color: #F0F0F0;
+}
+.page{
+  padding-left: 80px;
+}
+.imagedefond{
+  top: 10px;
+  height: 600px;
+  right: 0px;
+  float: right;
+  position: absolute;
+  z-index: 0;
+
+}
+h1{
+  font-size:3em;
+  z-index: 10;
+  position: relative;
+}
+input {
+  z-index: 10;
+  width: 50%;
+  padding-left: 30px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 6px 3px 6px gray;
+  font-size: 30px;
+  position: absolute;
+
+}
+.tag{
+
+}
+.active{
+
+  margin-right: 50px;
+  padding-top: 50px;
+  height: 120px;
+  position: relative;
+}
+.no-active{
+  z-index: 2;
+  margin-right: 50px;
+  padding-top: 20px;
+  border-top: 2px solid gray;
+  position: relative;
+
+}
+.content{
+display: inline-block;
+}
+.buttonrose
+{
+  background-color: #F0F0F0;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #B91C77;
+  color: #B91C77;
+  padding: 10px 30px;
+  margin : 5px;
+
+}
+.buttonvert
+{
+  background-color: #F0F0F0;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #006E77;
+  color: #006E77;
+  padding: 10px 30px;
+  margin : 5px;
+
+}
+.buttonbleu
+{
+  background-color: #F0F0F0;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #2296DA;
+  color: #2296DA;
+  padding: 10px 30px;
+  margin : 5px;
+}

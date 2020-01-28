@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Oswald|PT+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+@font-face {
+font-family: "proxima";
+src: '../police';
+}
+body{
+
+font-family: 'proxima', 'Poppins', sans-serif;
+}
+
+h1,h2,h3{
+  font-family: 'Raleway', sans-serif;
+}
